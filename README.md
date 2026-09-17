@@ -2,6 +2,8 @@
 
 Витринаи фурӯш ва насби Starlink дар Тоҷикистон: Standard V4, Mini, Transfer ва KYC. Забонҳо: тоҷикӣ, русӣ, англисӣ. Муштариён тавассути WhatsApp навишта метавонанд.
 
+**Сайт:** https://murodov0698.github.io/starlinkstore/
+
 Starlink Store TJ is an independent seller and installer. Not affiliated with SpaceX / Starlink.
 
 ## Run locally

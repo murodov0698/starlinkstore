@@ -15,8 +15,8 @@ export const contact = {
  * Пас аз иваз саҳифаро бо Ctrl+F5 навсозӣ кунед.
  */
 export const productImages = {
-  standard: '/products/standard-v4.jpg?v=3',
-  mini: '/products/mini.jpg?v=3',
+  standard: `${import.meta.env.BASE_URL}products/standard-v4.jpg?v=3`,
+  mini: `${import.meta.env.BASE_URL}products/mini.jpg?v=3`,
 }
 
 export function whatsappUrl(text: string) {
